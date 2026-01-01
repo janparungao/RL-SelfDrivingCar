@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# RL outputs / artifacts
+Code/models/
+Code/*.pt
+Code/*.png
+*.mp4
+Code/__pycache__/
