@@ -10,6 +10,7 @@ This project was for the Designing with Intelligent Agents module coursework. It
 ----------- Agent Design Decisions ----------- 
 
 Through this coursework, several deliberate design choices to form the basis of my intelligent agent and it's learning approach.
+
 ----------------------
 
 Although the CarRacing environment naturally supports a continuous control, a discrete action space was chosen instead as:
